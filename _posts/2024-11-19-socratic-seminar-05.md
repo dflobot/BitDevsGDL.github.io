@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 5"
-meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/303827137/?eventOrigin=group_events_list/"
+meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/304404807"
 ---
 
 ## Anuncios
@@ -14,7 +14,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - Se fomenta la interacción y hacer preguntas
 - [Reglas de la Casa Chatham](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
-
+›
 ## Cosas que realmente discutiremos
 
 - TBA
