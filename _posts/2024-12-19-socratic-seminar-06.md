@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 6"
-meetup: "https://github.com/guadalajara-bitdevs/BitDevsGDL.github.io/issues/13#issuecomment-2515440576"
+meetup: "https://www.meetup.com/es-ES/guadalajara-bitcoin-and-lightning/events/304905062/?eventorigin=group_events_list"
 ---
 
 ## Anuncios
